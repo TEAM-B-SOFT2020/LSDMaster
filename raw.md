@@ -66,7 +66,7 @@ The following tasks should be handled by the **web application**.
 |Agencies                   | ✔️ ||
 |Schedules                  | ✔️ ||
 |Carriers                   | ✔️ ||
-|Week                       | ✔️ ||
+|Week                       | ? ||
 |Time Zone                  | ✔️ ||
 |Departures                 | ✔️ ||
 |Arrivals                   | ✔️ ||
@@ -77,7 +77,7 @@ The following tasks should be handled by the **web application**.
 |Time                       | ✔️ ||
 |Seat                       | - ||
 |Price                      | ✔️ ||
-|Euros                      | ✔️ ||
+|Euros                      | - ||
 |Carrier Code               | ✔️ ||
 |Digits                     | - ||
 |Airport Code               | ✔️ ||

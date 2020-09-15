@@ -13,38 +13,51 @@ skinparam Object {
     StereotypeFontColor White
 }
 
+Object Flight {
+    'This is a combination of carrier code and the three digits
+    IATA Combined Code
+    Departure Date & Time
+    Arrival Data & Time
+    Number of Seats
+    Seat Price
+}
+
+Object Carrier {
+    IATA Carrier Code
+}
+
+Object Airport {
+    IATA Airport Code
+    Name
+    Time Zone
+}
+
 Object Person {
-    fname: String
-    lname: String
-    email: String
-    address: String
-    phone: Number
-    cpr: String
+    First Name
+    Last Name
+    Passport
 }
 
-Object Course {
-    description: String
-    isActive: Boolean
+Object Booking {
+    Price
+    'if credit card is null booking is paid by Frequent Flyer Number
+    Credit Card Number
+    Frequent Flyer Number
 }
 
-Object Lecture {
-    subject: String
-    start: DateTime
-    end: DateTime
-}
+Object Schedule
+Object Agency 
 
-Object School
-Object Category
-Object Room
+Airport o-"*" Flight: Start Destination
+Airport o-"*" Flight: End Destination
 
-School o-"*" Person : teachers
-School o-"*" Course
+Flight "*"--"1" Schedule
+Flight "*"-"*" Person: PNR
+Carrier o-"1" Schedule
 
-Person "*"-"*" Course : students
-Person "0..1"-- Course : assistance teachers
-Person "1"-* Course : main teacher
+Person "1.9"--"*" Booking: Passenger
+Person "*"-o Agency: Employee
 
-Course "*"-"1" Category
-Course o-"*" Lecture
-Room "1"-"*" Lecture
+Booking "*"--"1.*" Flight
+
 @enduml

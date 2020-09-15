@@ -115,7 +115,7 @@ ___
   
 ###  Diagram
   
-![logical data model](assets/diagrams/logical-data-model.svg )
+![logical data model](assets/diagrams/logical-data-model.svg)
   
 ###  PUML Source
   

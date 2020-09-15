@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="138px" preserveAspectRatio="none" style="width:820px;height:138px;" version="1.1" viewBox="0 0 820 138" width="820px" zoomAndPan="magnify"><defs/><g><rect fill="#1E90FF" height="96.7969" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="86" x="150.5" y="31"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="42" x="172.5" y="44.6016">Person</text><line style="stroke: #FFFFFF; stroke-width: 1.5;" x1="151.5" x2="235.5" y1="49.1328" y2="49.1328"/><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="65" x="156.5" y="62.8008">fname: String</text><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="64" x="156.5" y="74.5781">lname: String</text><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="61" x="156.5" y="86.3555">email: String</text><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="72" x="156.5" y="98.1328">address: String</text><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="74" x="156.5" y="109.9102">phone: Number</text><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="49" x="156.5" y="121.6875">cpr: String</text><rect fill="#1E90FF" height="49.6875" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="100" x="396.5" y="54.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="44" x="424.5" y="68.1016">Course</text><line style="stroke: #FFFFFF; stroke-width: 1.5;" x1="397.5" x2="495.5" y1="72.6328" y2="72.6328"/><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="88" x="402.5" y="86.3008">description: String</text><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="83" x="402.5" y="98.0781">isActive: Boolean</text><rect fill="#1E90FF" height="61.4648" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="88" x="721.5" y="49"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="45" x="743" y="62.6016">Lecture</text><line style="stroke: #FFFFFF; stroke-width: 1.5;" x1="722.5" x2="808.5" y1="67.1328" y2="67.1328"/><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="69" x="727.5" y="80.8008">subject: String</text><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="76" x="727.5" y="92.5781">start: DateTime</text><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="71" x="727.5" y="104.3555">end: DateTime</text><rect fill="#1E90FF" height="34.1328" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="55" x="6" y="62.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="41" x="13" y="76.1016">School</text><line style="stroke: #FFFFFF; stroke-width: 1.5;" x1="7" x2="60" y1="80.6328" y2="80.6328"/><rect fill="#1E90FF" height="34.1328" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="70" x="531.5" y="62.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="56" x="538.5" y="76.1016">Category</text><line style="stroke: #FFFFFF; stroke-width: 1.5;" x1="532.5" x2="600.5" y1="80.6328" y2="80.6328"/><rect fill="#1E90FF" height="34.1328" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="50" x="636.5" y="62.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="36" x="643.5" y="76.1016">Room</text><line style="stroke: #FFFFFF; stroke-width: 1.5;" x1="637.5" x2="685.5" y1="80.6328" y2="80.6328"/><!--MD5=[4f3cfe0085c5da22c199370c805a2878]
+reverse link School to Person--><path d="M74.2937,79.5 C97.579,79.5 126.7511,79.5 150.4083,79.5 " fill="none" id="School&lt;-Person" style="stroke: #696969; stroke-width: 1.0;"/><polygon fill="#FFFFFF" points="61.005,79.5,67.005,83.5,73.005,79.5,67.005,75.5,61.005,79.5" style="stroke: #696969; stroke-width: 1.0;"/><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="53" x="79.25" y="73.0684">teachers</text><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="6" x="136.4863" y="75.8234">*</text><!--MD5=[6d029cba253a5f019d2298f85c1f7df2]
+reverse link School to Course--><path d="M67.752,55.0728 C90.2357,40.5825 120.9456,23.6016 151,16 C236.5909,-5.6482 337.3169,28.5877 396.3128,54.6016 " fill="none" id="School&lt;-Course" style="stroke: #696969; stroke-width: 1.0;"/><polygon fill="#FFFFFF" points="56.7913,62.3604,64.0024,62.3693,66.7841,55.7164,59.573,55.7074,56.7913,62.3604" style="stroke: #696969; stroke-width: 1.0;"/><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="6" x="382.5009" y="47.4572">*</text><!--MD5=[003a7d4e90abc1b65e460552c17a7a49]
+link Person to Course--><path d="M236.7061,63.3823 C242.4523,61.7825 248.3206,60.4144 254,59.5 C281.4246,55.0845 351.5098,55.513 379,59.5 C384.685,60.3245 390.5578,61.5204 396.3577,62.9235 " fill="none" id="Person-Course" style="stroke: #696969; stroke-width: 1.0;"/><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="55" x="289" y="50.0684">students</text><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="6" x="244.359" y="57.0815">*</text><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="6" x="382.5524" y="74.2045">*</text><!--MD5=[003a7d4e90abc1b65e460552c17a7a49]
+link Person to Course--><path d="M236.7048,79.5 C280.8792,79.5 349.4486,79.5 396.0774,79.5 " fill="none" id="Person-Course-1" style="stroke: #696969; stroke-width: 1.0;"/><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="123" x="255" y="73.0684">assistance teachers</text><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="24" x="244.468" y="93.1592">0..1</text><!--MD5=[003a7d4e90abc1b65e460552c17a7a49]
+link Person to Course--><path d="M236.7076,92.1512 C248.9731,95.1814 262.4165,97.9786 275,99.5 C311.6222,103.9278 321.3387,103.5909 358,99.5 C366.3167,98.572 374.9928,97.1678 383.521,95.5251 " fill="none" id="Person-&gt;Course" style="stroke: #696969; stroke-width: 1.0;"/><polygon fill="#696969" points="396.2846,92.8797,389.5976,90.1807,384.5343,95.3152,391.2213,98.0142,396.2846,92.8797" style="stroke: #696969; stroke-width: 1.0;"/><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="81" x="276" y="96.0684">main teacher</text><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="244.5264" y="108.0996">1</text><!--MD5=[d28a01904204e1ea5f2c08bac1fed1a4]
+link Course to Category--><path d="M496.6563,79.5 C508.2059,79.5 519.7556,79.5 531.3053,79.5 " fill="none" id="Course-Category" style="stroke: #696969; stroke-width: 1.0;"/><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="6" x="504.4636" y="76.0126">*</text><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="515.5888" y="75.6093">1</text><!--MD5=[ab5b4de009bd412f01149b83c7002937]
+reverse link Course to Lecture--><path d="M481.2388,45.7865 C495.7325,33.9669 513.495,22.1201 532,16 C564.7023,5.1844 654.5282,4.5107 687,16 C705.8388,22.6656 723.466,35.9869 737.225,48.7144 " fill="none" id="Course&lt;-Lecture" style="stroke: #696969; stroke-width: 1.0;"/><polygon fill="#FFFFFF" points="471.2989,54.3059,478.4576,53.4384,480.4102,46.4967,473.2515,47.3642,471.2989,54.3059" style="stroke: #696969; stroke-width: 1.0;"/><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="6" x="724.7745" y="38.3704">*</text><!--MD5=[b0197b27e8a216cff2d14fb881aa2b25]
+link Room to Lecture--><path d="M686.6875,79.5 C698.2836,79.5 709.8797,79.5 721.4758,79.5 " fill="none" id="Room-Lecture" style="stroke: #696969; stroke-width: 1.0;"/><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="694.5316" y="75.0766">1</text><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="6" x="707.3935" y="75.766">*</text><!--MD5=[e0fb39210143c8e6a52dee914c242b17]
+@startuml "logical-data-model"
+skinparam Shadowing False
+skinparam RoundCorner 10
+skinparam DefaultFontColor DimGrey
+
+skinparam Object {
+    BackgroundColor DodgerBlue
+    ArrowColor DimGrey
+    BorderColor White
+    FontColor White
+    FontStyle Bold
+    AttributeFontColor White
+    StereotypeFontColor White
+}
+
+Object Person {
+    fname: String
+    lname: String
+    email: String
+    address: String
+    phone: Number
+    cpr: String
+}
+
+Object Course {
+    description: String
+    isActive: Boolean
+}
+
+Object Lecture {
+    subject: String
+    start: DateTime
+    end: DateTime
+}
+
+Object School
+Object Category
+Object Room
+
+School o-"*" Person : teachers
+School o-"*" Course
+
+Person "*"-"*" Course : students
+Person "0..1"- - Course : assistance teachers
+Person "1"-* Course : main teacher
+
+Course "*"-"1" Category
+Course o-"*" Lecture
+Room "1"-"*" Lecture
+@enduml
+
+PlantUML version 1.2020.10(Sun May 17 11:35:57 CEST 2020)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 13.0.2+8
+Operating System: Mac OS X
+Default Encoding: UTF-8
+Language: en
+Country: DK
+--></g></svg>

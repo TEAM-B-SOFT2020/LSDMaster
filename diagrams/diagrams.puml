@@ -1,0 +1,50 @@
+@startuml "logical-data-model"
+skinparam Shadowing False
+skinparam RoundCorner 10
+skinparam DefaultFontColor DimGrey
+
+skinparam Object {
+    BackgroundColor DodgerBlue
+    ArrowColor DimGrey
+    BorderColor White
+    FontColor White
+    FontStyle Bold
+    AttributeFontColor White
+    StereotypeFontColor White
+}
+
+Object Person {
+    fname: String
+    lname: String
+    email: String
+    address: String
+    phone: Number
+    cpr: String
+}
+
+Object Course {
+    description: String
+    isActive: Boolean
+}
+
+Object Lecture {
+    subject: String
+    start: DateTime
+    end: DateTime
+}
+
+Object School
+Object Category
+Object Room
+
+School o-"*" Person : teachers
+School o-"*" Course
+
+Person "*"-"*" Course : students
+Person "0..1"-- Course : assistance teachers
+Person "1"-* Course : main teacher
+
+Course "*"-"1" Category
+Course o-"*" Lecture
+Room "1"-"*" Lecture
+@enduml

@@ -110,6 +110,31 @@ The following tasks should be handled by the **web application**.
 |Service                    | - ||
   
 ___
+
+###  Verbs
+
+|Word                       |UCM|
+|---                        |:-:|
+|Have agreed                |-|
+|Provide online booking     |-|
+|Access to GDS through a web service for thrid party  |-|
+|Access to GDS through a web application for employees  |-|
+|Schedules will have the same depatures and arrival on the same destination every day in the week |-|
+|Carries indentified by IATA carrier code   |✔️|
+|Airports indentified by IATA airport code   |✔️|
+|Info timezone should be stored for each airport   |-|
+|Booking one or more passengers   |✔️|
+|Booking oneway trip  |✔️|
+|Booking round-trip  |✔️|
+|Passenger indentifed by PNR   |✔️|
+|Show a time scheddule  |✔️|
+|Information about the carrier|✔️|
+|Information about seats on the flight|✔️|
+|Make booking for up to 9 person|✔️|
+|See a booking given a PNR|✔️|
+|Cancel a booking given a PNR|✔️|
+
+___
 ##  Logical Data Model
   
   

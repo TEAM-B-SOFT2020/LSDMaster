@@ -134,6 +134,10 @@ ___
 |See a booking given a PNR|✔️|
 |Cancel a booking given a PNR|✔️|
 
+### Actors
+- Employee
+- Passenger
+
 ___
 ##  Logical Data Model
   
@@ -142,6 +146,13 @@ ___
   
 ![logical data model](assets/diagrams/logical-data-model.svg )
   
+
+## Use Case Model
+
+### Diagram
+
+![Use Case model](assets/diagrams/UDM.svg )
+
 ###  PUML Source
   
 _puml_

@@ -62,7 +62,6 @@ The following tasks should be handled by the **web application**.
   
 ###  Glossary
   
-  
 |Word                       |LDM|Description |
 |---                        |:-:|---|
 |Number                     | - ||
@@ -158,7 +157,7 @@ ___
     UC1
     Name: Find Carrier
 
-    Description: 
+    Description:  
     An employee has to be able to enter the web application and find a carrier using IATA code.
 
     Primary Actor: Employee 
@@ -179,7 +178,7 @@ ___
     UC2
     Name: Find airport
 
-    Description: 
+    Description:  
     An employee has to be able to enter the web application and find a airport using IATA code.
 
     Primary Actor: Employee 
@@ -199,12 +198,11 @@ ___
     UC3
     Name: Book flight
 
-    Description: 
+    Description:  
     A passenger has to be able to book a flight for up to 9 people per booking and indicate 
     if booking is a oneway-trip or a round-trip.
 
     Employee should be able to book the flight in case passenger needs help.
-
 
     Primary Actor: Passenger 
     Secondary Actor: Employee
@@ -230,7 +228,7 @@ ___
     UC4
     Name: See Schedule
 
-    Description: 
+    Description:  
     Passenger has to be able to see a list of schedueled flights. 
     Employee has to be able to see a list of schedueled flights.
 
@@ -254,7 +252,7 @@ ___
     UC5
     Name: See Booking
 
-    Description: 
+    Description:  
     Passenger has to be able to see a list of all their bookings given a PNR.
     Employee has to be able to see a list of all Passengers booking given a PNR
 
@@ -269,9 +267,9 @@ ___
     Passenger selects a booking in list.
 
     Alternative Scenario:
-    Employee select See bookings
-    System shows search form
-    Employee enters PNR
+    Employee select See bookings.
+    System shows search form.
+    Employee enters PNR.
     System list relevant bookings.
     Employee selects a booking in list.
 
@@ -282,10 +280,10 @@ ___
     UC6
     Name: Cancel Booking
 
-    Description: 
+    Description:  
     Passenger has to be able to cancel a booking.
     Employee has to be able to cancel a booking.
-
+    
     Primary Actor: Passenger
     Secondary Actor: Employee
 
@@ -303,9 +301,9 @@ ___
     Employee confrims.
     System deletes booking from system.
 
-    Postcondition:(Success guaranties) A booking has been canceld and delete.
+    Postcondition: (Success guaranties) A booking has been canceld and delete.
 
-###  PUML Source
+###  <b>PUML Source
   
 _puml_
 ```java

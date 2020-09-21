@@ -1,145 +1,234 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="242px" preserveAspectRatio="none" style="width:665px;height:242px;" version="1.1" viewBox="0 0 665 242" width="665px" zoomAndPan="magnify"><defs/><g><rect fill="#1E90FF" height="85.0195" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="124" x="249" y="8"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="36" x="293" y="21.6016">Flight</text><line style="stroke: #FFFFFF; stroke-width: 1.5;" x1="250" x2="372" y1="26.1328" y2="26.1328"/><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="103" x="255" y="39.8008">IATA Combined Code</text><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="112" x="255" y="51.5781">Departure Date &amp; Time</text><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="95" x="255" y="63.3555">Arrival Data &amp; Time</text><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="80" x="255" y="75.1328">Number of Seats</text><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="48" x="255" y="86.9102">Seat Price</text><rect fill="#1E90FF" height="37.9102" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="100" x="141" y="181.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="42" x="170" y="195.1016">Carrier</text><line style="stroke: #FFFFFF; stroke-width: 1.5;" x1="142" x2="240" y1="199.6328" y2="199.6328"/><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="88" x="147" y="213.3008">IATA Carrier Code</text><rect fill="#1E90FF" height="61.4648" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="100" x="6" y="20"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="44" x="34" y="33.6016">Airport</text><line style="stroke: #FFFFFF; stroke-width: 1.5;" x1="7" x2="105" y1="38.1328" y2="38.1328"/><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="88" x="12" y="51.8008">IATA Airport Code</text><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="28" x="12" y="63.5781">Name</text><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="51" x="12" y="75.3555">Time Zone</text><rect fill="#1E90FF" height="61.4648" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="64" x="435" y="20"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="42" x="446" y="33.6016">Person</text><line style="stroke: #FFFFFF; stroke-width: 1.5;" x1="436" x2="498" y1="38.1328" y2="38.1328"/><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="52" x="441" y="51.8008">First Name</text><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="51" x="441" y="63.5781">Last Name</text><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="42" x="441" y="75.3555">Passport</text><rect fill="#1E90FF" height="61.4648" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="122" x="393" y="170"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="52" x="428" y="183.6016">Booking</text><line style="stroke: #FFFFFF; stroke-width: 1.5;" x1="394" x2="514" y1="188.1328" y2="188.1328"/><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="24" x="399" y="201.8008">Price</text><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="97" x="399" y="213.5781">Credit Card Number</text><text fill="#FFFFFF" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="110" x="399" y="225.3555">Frequent Flyer Number</text><rect fill="#1E90FF" height="34.1328" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="69" x="276.5" y="183.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="55" x="283.5" y="197.1016">Schedule</text><line style="stroke: #FFFFFF; stroke-width: 1.5;" x1="277.5" x2="344.5" y1="201.6328" y2="201.6328"/><rect fill="#1E90FF" height="34.1328" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="59" x="595.5" y="33.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="45" x="602.5" y="47.1016">Agency</text><line style="stroke: #FFFFFF; stroke-width: 1.5;" x1="596.5" x2="653.5" y1="51.6328" y2="51.6328"/><!--MD5=[ce061cae12338d39eab38bac3eb12965]
-reverse link Airport to Flight--><path d="M119.293,50.5 C158.8367,50.5 209.5306,50.5 248.8557,50.5 " fill="none" id="Airport&lt;-Flight" style="stroke: #696969; stroke-width: 1.0;"/><polygon fill="#FFFFFF" points="106.0755,50.5,112.0755,54.5,118.0755,50.5,112.0755,46.5,106.0755,50.5" style="stroke: #696969; stroke-width: 1.0;"/><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="106" x="124.5" y="44.0684">Start Destination</text><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="6" x="234.9162" y="47.172">*</text><!--MD5=[ce061cae12338d39eab38bac3eb12965]
-reverse link Airport to Flight--><path d="M118.899,69.2679 C121.455,69.7368 123.9955,70.1516 126.5,70.5 C171.401,76.7457 183.4868,75.8783 228.5,70.5 C235.0852,69.7132 241.9044,68.585 248.672,67.2598 " fill="none" id="Airport&lt;-Flight-1" style="stroke: #696969; stroke-width: 1.0;"/><polygon fill="#FFFFFF" points="106.0873,66.5308,111.1191,71.6961,117.8225,69.038,112.7906,63.8727,106.0873,66.5308" style="stroke: #696969; stroke-width: 1.0;"/><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="100" x="127.5" y="67.0684">End Destination</text><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="6" x="235.1185" y="65.9156">*</text><!--MD5=[bbc2388cef577387501992c826ed6e7e]
-link Flight to Schedule--><path d="M311,93.0828 C311,123.0513 311,161.5708 311,183.3981 " fill="none" id="Flight-Schedule" style="stroke: #696969; stroke-width: 1.0;"/><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="6" x="304.5219" y="113.6563">*</text><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="301.675" y="172.8465">1</text><!--MD5=[e96abbd5261da213b51ed4f1cf3f2570]
-link Flight to Person--><path d="M373.1036,50.5 C394.1755,50.5 416.8639,50.5 434.6589,50.5 " fill="none" id="Flight-Person" style="stroke: #696969; stroke-width: 1.0;"/><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="25" x="391.5" y="44.0684">PNR</text><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="6" x="381.0381" y="47.172">*</text><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="6" x="420.928" y="46.4109">*</text><!--MD5=[a6bd26dcbc7decf1231d1f3652a64bb1]
-reverse link Carrier to Schedule--><path d="M254.3543,200.5 C261.6865,200.5 269.0187,200.5 276.351,200.5 " fill="none" id="Carrier&lt;-Schedule" style="stroke: #696969; stroke-width: 1.0;"/><polygon fill="#FFFFFF" points="241.1563,200.5,247.1563,204.5,253.1563,200.5,247.1563,196.5,241.1563,200.5" style="stroke: #696969; stroke-width: 1.0;"/><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="260.3796" y="196.5398">1</text><!--MD5=[a8c3d1e5183f7e220606618c31f4c267]
-link Person to Booking--><path d="M464.3379,81.2167 C462.0945,107.1017 458.9009,143.951 456.6586,169.8244 " fill="none" id="Person-Booking" style="stroke: #696969; stroke-width: 1.0;"/><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="63" x="461" y="136.5684">Passenger</text><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="20" x="441.5681" y="102.1281">1.9</text><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="6" x="450.5839" y="159.025">*</text><!--MD5=[fe90a71fafe392d1d2326c45d069a85d]
-link Person to Agency--><path d="M499.3549,50.5 C523.232,50.5 555.966,50.5 582.0363,50.5 " fill="none" id="Person-&gt;Agency" style="stroke: #696969; stroke-width: 1.0;"/><polygon fill="#FFFFFF" points="595.3568,50.5,589.3568,46.5,583.3568,50.5,589.3568,54.5,595.3568,50.5" style="stroke: #696969; stroke-width: 1.0;"/><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="60" x="517.25" y="44.0684">Employee</text><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="6" x="507.0888" y="46.4109">*</text><!--MD5=[c1d051e32d7e31fb60a610d2b664aa06]
-link Booking to Flight--><path d="M424.6681,169.7323 C403.5815,147.6134 374.881,117.508 351.5956,93.0828 " fill="none" id="Booking-Flight" style="stroke: #696969; stroke-width: 1.0;"/><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="6" x="411.9996" y="159.392">*</text><text fill="#696969" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="18" x="338.6311" y="113.6563">1.*</text><!--MD5=[9fbb822ccd9463147127d68471872dff]
-@startuml "logical-data-model"
-skinparam Shadowing False
-skinparam RoundCorner 10
-skinparam DefaultFontColor DimGrey
-
-skinparam Object {
-    BackgroundColor DodgerBlue
-    ArrowColor DimGrey
-    BorderColor White
-    FontColor White
-    FontStyle Bold
-    AttributeFontColor White
-    StereotypeFontColor White
-}
-
-Object Flight {
-    'This is a combination of carrier code and the three digits
-    IATA Combined Code
-    Departure Date & Time
-    Arrival Data & Time
-    Number of Seats
-    Seat Price
-}
-
-Object Carrier {
-    IATA Carrier Code
-}
-
-Object Airport {
-    IATA Airport Code
-    Name
-    Time Zone
-}
-
-Object Person {
-    First Name
-    Last Name
-    Passport
-}
-
-Object Booking {
-    Price
-    'if credit card is null booking is paid by Frequent Flyer Number
-    Credit Card Number
-    Frequent Flyer Number
-}
-
-Object Schedule
-Object Agency 
-
-Airport o-"*" Flight: Start Destination
-Airport o-"*" Flight: End Destination
-
-Flight "*"- -"1" Schedule
-Flight "*"-"*" Person: PNR
-Carrier o-"1" Schedule
-
-Person "1.9"- -"*" Booking: Passenger
-Person "*"-o Agency: Employee
-
-Booking "*"- -"1.*" Flight
-
-@enduml
-
-@startuml "logical-data-model"
-skinparam Shadowing False
-skinparam RoundCorner 10
-skinparam DefaultFontColor DimGrey
-
-skinparam Object {
-    BackgroundColor DodgerBlue
-    ArrowColor DimGrey
-    BorderColor White
-    FontColor White
-    FontStyle Bold
-    AttributeFontColor White
-    StereotypeFontColor White
-}
-
-Object Flight {
-    IATA Combined Code
-    Departure Date & Time
-    Arrival Data & Time
-    Number of Seats
-    Seat Price
-}
-
-Object Carrier {
-    IATA Carrier Code
-}
-
-Object Airport {
-    IATA Airport Code
-    Name
-    Time Zone
-}
-
-Object Person {
-    First Name
-    Last Name
-    Passport
-}
-
-Object Booking {
-    Price
-    Credit Card Number
-    Frequent Flyer Number
-}
-
-Object Schedule
-Object Agency 
-
-Airport o-"*" Flight: Start Destination
-Airport o-"*" Flight: End Destination
-
-Flight "*"- -"1" Schedule
-Flight "*"-"*" Person: PNR
-Carrier o-"1" Schedule
-
-Person "1.9"- -"*" Booking: Passenger
-Person "*"-o Agency: Employee
-
-Booking "*"- -"1.*" Flight
-
-@enduml
-
-PlantUML version 1.2020.10(Sun May 17 11:35:57 CEST 2020)
-(GPL source distribution)
-Java Runtime: Java(TM) SE Runtime Environment
-JVM: Java HotSpot(TM) 64-Bit Server VM
-Java Version: 13.0.2+8
-Operating System: Mac OS X
-Default Encoding: UTF-8
-Language: en
-Country: DK
---></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
+          'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-opacity="1" xmlns:xlink="http://www.w3.org/1999/xlink" color-rendering="auto" color-interpolation="auto" text-rendering="auto" stroke="black" stroke-linecap="square" width="650" stroke-miterlimit="10" shape-rendering="auto" stroke-opacity="1" fill="black" stroke-dasharray="none" font-weight="normal" stroke-width="1" viewBox="100 90 650 800" height="800" xmlns="http://www.w3.org/2000/svg" font-family="'Dialog'" font-style="normal" stroke-linejoin="miter" font-size="12px" stroke-dashoffset="0" image-rendering="auto"
+><!--Generated by the Batik Graphics2D SVG Generator--><defs id="genericDefs"
+  /><g
+  ><defs id="defs1"
+    ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath1"
+      ><path d="M0 0 L2147483647 0 L2147483647 2147483647 L0 2147483647 L0 0 Z"
+      /></clipPath
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath2"
+      ><path d="M0 0 L0 30 L100 30 L100 0 Z"
+      /></clipPath
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath3"
+      ><path d="M0 0 L0 60 L100 60 L100 0 Z"
+      /></clipPath
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath4"
+      ><path d="M0 0 L0 60 L180 60 L180 0 Z"
+      /></clipPath
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath5"
+      ><path d="M0 0 L0 80 L130 80 L130 0 Z"
+      /></clipPath
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath6"
+      ><path d="M0 0 L0 50 L160 50 L160 0 Z"
+      /></clipPath
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath7"
+      ><path d="M0 0 L0 110 L210 110 L210 0 Z"
+      /></clipPath
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath8"
+      ><path d="M0 0 L0 50 L50 50 L50 0 Z"
+      /></clipPath
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath9"
+      ><path d="M0 0 L0 250 L100 250 L100 0 Z"
+      /></clipPath
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath10"
+      ><path d="M0 0 L0 150 L40 150 L40 0 Z"
+      /></clipPath
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath11"
+      ><path d="M0 0 L0 100 L190 100 L190 0 Z"
+      /></clipPath
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath12"
+      ><path d="M0 0 L0 130 L40 130 L40 0 Z"
+      /></clipPath
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath13"
+      ><path d="M0 0 L0 140 L40 140 L40 0 Z"
+      /></clipPath
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath14"
+      ><path d="M0 0 L0 50 L370 50 L370 0 Z"
+      /></clipPath
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath15"
+      ><path d="M0 0 L0 180 L150 180 L150 0 Z"
+      /></clipPath
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath16"
+      ><path d="M0 0 L0 230 L120 230 L120 0 Z"
+      /></clipPath
+    ></defs
+    ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(630,620)" stroke-opacity="0" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="98.5" height="28.5" y="0.5" clip-path="url(#clipPath2)" stroke="none"
+    /></g
+    ><g transform="translate(630,620)"
+    ><rect fill="none" x="0.5" width="98.5" height="28.5" y="0.5" clip-path="url(#clipPath2)"
+      /><text x="35" font-size="14px" y="17.9688" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >PNR</text
+    ></g
+    ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(410,500)" stroke-opacity="0" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="98.5" height="58.5" y="0.5" clip-path="url(#clipPath3)" stroke="none"
+    /></g
+    ><g transform="translate(410,500)"
+    ><rect fill="none" x="0.5" width="98.5" height="58.5" y="0.5" clip-path="url(#clipPath3)"
+      /><text x="38" font-size="14px" y="17.9688" clip-path="url(#clipPath3)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >Leg</text
+      ><path fill="none" d="M1 23.9688 L99 23.9688" clip-path="url(#clipPath3)"
+      /><text x="5" font-size="14px" y="38.9375" clip-path="url(#clipPath3)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >week</text
+      ><text x="5" font-size="14px" y="54.9062" clip-path="url(#clipPath3)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >year</text
+    ></g
+    ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(410,660)" stroke-opacity="0" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="98.5" height="28.5" y="0.5" clip-path="url(#clipPath2)" stroke="none"
+    /></g
+    ><g transform="translate(410,660)"
+    ><rect fill="none" x="0.5" width="98.5" height="28.5" y="0.5" clip-path="url(#clipPath2)"
+      /><text x="11" font-size="14px" y="17.9688" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >Booking Leg</text
+    ></g
+    ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(120,710)" stroke-opacity="0" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="178.5" height="58.5" y="0.5" clip-path="url(#clipPath4)" stroke="none"
+    /></g
+    ><g transform="translate(120,710)"
+    ><rect fill="none" x="0.5" width="178.5" height="58.5" y="0.5" clip-path="url(#clipPath4)"
+      /><text x="64" font-size="14px" y="17.9688" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >Booking</text
+      ><path fill="none" d="M1 23.9688 L179 23.9688" clip-path="url(#clipPath4)"
+      /><text x="5" font-size="14px" y="38.9375" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >frequentFlyerID </text
+      ><text x="5" font-size="14px" y="54.9062" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >creditCardNumber</text
+    ></g
+    ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(120,830)" stroke-opacity="0" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="98.5" height="28.5" y="0.5" clip-path="url(#clipPath2)" stroke="none"
+    /></g
+    ><g transform="translate(120,830)"
+    ><rect fill="none" x="0.5" width="98.5" height="28.5" y="0.5" clip-path="url(#clipPath2)"
+      /><text x="26" font-size="14px" y="17.9688" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >Agency</text
+    ></g
+    ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(560,810)" stroke-opacity="0" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="98.5" height="58.5" y="0.5" clip-path="url(#clipPath3)" stroke="none"
+    /></g
+    ><g transform="translate(560,810)"
+    ><rect fill="none" x="0.5" width="98.5" height="58.5" y="0.5" clip-path="url(#clipPath3)"
+      /><text x="27" font-size="14px" y="17.9688" clip-path="url(#clipPath3)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >Person</text
+      ><path fill="none" d="M1 23.9688 L99 23.9688" clip-path="url(#clipPath3)"
+      /><text x="5" font-size="14px" y="38.9375" clip-path="url(#clipPath3)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >firstName</text
+      ><text x="5" font-size="14px" y="54.9062" clip-path="url(#clipPath3)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >lastName</text
+    ></g
+    ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(150,560)" stroke-opacity="0" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="128.5" height="78.5" y="0.5" clip-path="url(#clipPath5)" stroke="none"
+    /></g
+    ><g transform="translate(150,560)"
+    ><rect fill="none" x="0.5" width="128.5" height="78.5" y="0.5" clip-path="url(#clipPath5)"
+      /><text x="44" font-size="14px" y="17.9688" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >Airport</text
+      ><path fill="none" d="M1 23.9688 L129 23.9688" clip-path="url(#clipPath5)"
+      /><text x="5" font-size="14px" y="38.9375" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >name</text
+      ><text x="5" font-size="14px" y="54.9062" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >timeZone</text
+      ><text x="5" font-size="14px" y="70.875" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >IATA</text
+    ></g
+    ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(320,110)" stroke-opacity="0" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="158.5" height="48.5" y="0.5" clip-path="url(#clipPath6)" stroke="none"
+    /></g
+    ><g transform="translate(320,110)"
+    ><rect fill="none" x="0.5" width="158.5" height="48.5" y="0.5" clip-path="url(#clipPath6)"
+      /><text x="58" font-size="14px" y="17.9688" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >Carrier</text
+      ><path fill="none" d="M1 23.9688 L159 23.9688" clip-path="url(#clipPath6)"
+      /><text x="5" font-size="14px" y="38.9375" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >IATA</text
+    ></g
+    ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(310,280)" stroke-opacity="0" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="208.5" height="108.5" y="0.5" clip-path="url(#clipPath7)" stroke="none"
+    /></g
+    ><g transform="translate(310,280)"
+    ><rect fill="none" x="0.5" width="208.5" height="108.5" y="0.5" clip-path="url(#clipPath7)"
+      /><text x="86" font-size="14px" y="17.9688" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >Route</text
+      ><path fill="none" d="M1 23.9688 L209 23.9688" clip-path="url(#clipPath7)"
+      /><text x="5" font-size="14px" y="38.9375" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >IATA</text
+      ><text x="5" font-size="14px" y="54.9062" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >depatureDateTime</text
+      ><text x="5" font-size="14px" y="70.875" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >arrivalDateTime</text
+      ><text x="5" font-size="14px" y="86.8438" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >numberOfSeats</text
+      ><text x="5" font-size="14px" y="102.8125" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >seatPrice</text
+    ></g
+    ><g stroke-dasharray="8,5" stroke-miterlimit="5" transform="translate(600,640)" stroke-linecap="butt"
+    ><path fill="none" d="M10.5 30.5 L30.5 10.5" clip-path="url(#clipPath8)"
+    /></g
+    ><g transform="translate(270,380)"
+    ><path fill="none" d="M80.5 10.5 L80.5 220.5" clip-path="url(#clipPath9)"
+      /><path fill="none" d="M80.5 220.5 L10.5 220.5" clip-path="url(#clipPath9)"
+      /><text x="84" font-size="14px" y="38.9688" clip-path="url(#clipPath9)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >*</text
+      ><text x="29" font-size="14px" y="233.9688" clip-path="url(#clipPath9)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >1 End</text
+    ></g
+    ><g transform="translate(380,150)"
+    ><path fill="none" d="M10.5 10.5 L10.5 130.5" clip-path="url(#clipPath10)"
+      /><text x="14" font-size="14px" y="38.9688" clip-path="url(#clipPath10)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >1</text
+      ><text x="14" font-size="14px" y="114" clip-path="url(#clipPath10)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >*</text
+    ></g
+    ><g transform="translate(290,680)"
+    ><path fill="none" d="M11.5 70.5 L170.5 70.5" clip-path="url(#clipPath11)"
+      /><path fill="none" d="M170.5 70.5 L170.5 10.5" clip-path="url(#clipPath11)"
+      /><path fill="white" d="M22.2583 77 L11 70.5 L22.2583 64 L33.0167 70.5 Z" clip-path="url(#clipPath11)" stroke="none"
+      /><path fill="none" d="M22.2583 77 L11 70.5 L22.2583 64 L33.0167 70.5 Z" clip-path="url(#clipPath11)"
+      /><text x="29" font-size="14px" y="83.9688" clip-path="url(#clipPath11)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >1</text
+      ><text x="174" font-size="14px" y="38.9688" clip-path="url(#clipPath11)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >*</text
+    ></g
+    ><g transform="translate(450,550)"
+    ><path fill="none" d="M10.5 110.5 L10.5 10.5" clip-path="url(#clipPath12)"
+      /><text x="14" font-size="14px" y="94" clip-path="url(#clipPath12)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >*</text
+      ><text x="14" font-size="14px" y="38.9688" clip-path="url(#clipPath12)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >1</text
+    ></g
+    ><g transform="translate(440,380)"
+    ><path fill="none" d="M10.5 120.5 L10.5 10.5" clip-path="url(#clipPath13)"
+      /><text x="14" font-size="14px" y="104" clip-path="url(#clipPath13)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >*</text
+      ><text x="14" font-size="14px" y="38.9688" clip-path="url(#clipPath13)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >1</text
+    ></g
+    ><g transform="translate(210,820)"
+    ><path fill="none" d="M10.5 20.5 L350.5 20.5" clip-path="url(#clipPath14)"
+      /><text x="148.8726" font-size="14px" y="16" clip-path="url(#clipPath14)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >Employee</text
+      ><text x="29" font-size="14px" y="33.9688" clip-path="url(#clipPath14)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >*</text
+      ><text x="322.2139" font-size="14px" y="33.9688" clip-path="url(#clipPath14)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >1</text
+    ></g
+    ><g transform="translate(500,650)"
+    ><path fill="none" d="M10.5 20.5 L110.5 20.5" clip-path="url(#clipPath15)"
+      /><path fill="none" d="M110.5 20.5 L110.5 160.5" clip-path="url(#clipPath15)"
+      /><text x="29" font-size="14px" y="33.9688" clip-path="url(#clipPath15)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >*</text
+      ><text x="114" font-size="14px" y="144" clip-path="url(#clipPath15)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >1..9</text
+    ></g
+    ><g transform="translate(210,350)"
+    ><path fill="none" d="M10.5 210.5 L10.5 10.5" clip-path="url(#clipPath16)"
+      /><path fill="none" d="M10.5 10.5 L100.5 10.5" clip-path="url(#clipPath16)"
+      /><text x="14" font-size="14px" y="194" clip-path="url(#clipPath16)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >1 Start</text
+      ><text x="74.5518" font-size="14px" y="23.9688" clip-path="url(#clipPath16)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >*</text
+    ></g
+  ></g
+></svg
+>

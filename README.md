@@ -158,7 +158,8 @@ ___
     UC1
     Name: Find Carrier
 
-    Description: An employee has to be able to enter the web application and find a carrier using IATA code.
+    Description: 
+    An employee has to be able to enter the web application and find a carrier using IATA code.
 
     Primary Actor: Employee 
 
@@ -177,7 +178,9 @@ ___
 
     UC2
     Name: Find airport
-    Description: An employee has to be able to enter the web application and find a airport using IATA code.
+
+    Description: 
+    An employee has to be able to enter the web application and find a airport using IATA code.
 
     Primary Actor: Employee 
 
@@ -195,7 +198,10 @@ ___
   
     UC3
     Name: Book flight
-    Description: A passenger has to be able to book a flight for up to 9 people per booking and indicate if booking is a oneway-trip or a round-trip.
+
+    Description: 
+    A passenger has to be able to book a flight for up to 9 people per booking and indicate 
+    if booking is a oneway-trip or a round-trip.
 
     Employee should be able to book the flight in case passenger needs help.
 
@@ -224,7 +230,8 @@ ___
     UC4
     Name: See Schedule
 
-    Description: Passenger has to be able to see a list of schedueled flights. 
+    Description: 
+    Passenger has to be able to see a list of schedueled flights. 
     Employee has to be able to see a list of schedueled flights.
 
     Primary Actor: Passenger
@@ -247,7 +254,8 @@ ___
     UC5
     Name: See Booking
 
-    Description: Passenger has to be able to see a list of all their bookings given a PNR.
+    Description: 
+    Passenger has to be able to see a list of all their bookings given a PNR.
     Employee has to be able to see a list of all Passengers booking given a PNR
 
     Primary Actor: Passenger
@@ -273,7 +281,8 @@ ___
     UC6
     Name: Cancel Booking
 
-    Description: Passenger has to be able to cancel a booking.
+    Description: 
+    Passenger has to be able to cancel a booking.
     Employee has to be able to cancel a booking.
 
     Primary Actor: Passenger

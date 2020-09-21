@@ -155,7 +155,7 @@ ___
 
 ### Text written Use Cases
 
-    **UC1**
+    UC1
     Name: Find Carrier
 
     Description: 
@@ -176,7 +176,7 @@ ___
 
 ___
 
-    **UC2**
+    UC2
     Name: Find airport
 
     Description: 
@@ -196,7 +196,7 @@ ___
 
 ___
   
-    **UC3**
+    UC3
     Name: Book flight
 
     Description: 
@@ -227,7 +227,7 @@ ___
 
 ___
   
-    **UC4**
+    UC4
     Name: See Schedule
 
     Description: 
@@ -251,7 +251,7 @@ ___
     Alternative Postcondition: (Success guaranties) Employee see list of scheduled flights. 
 ___
   
-    **UC5**
+    UC5
     Name: See Booking
 
     Description: 
@@ -276,9 +276,10 @@ ___
     Employee selects a booking in list.
 
     Postcondition:(Success guaranties) A booking has been selected. 
+
 ___
   
-    **UC6**
+    UC6
     Name: Cancel Booking
 
     Description: 

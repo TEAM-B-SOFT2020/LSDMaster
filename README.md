@@ -151,7 +151,7 @@ ___
 
 ### Diagram
 
-![Use Case model](assets/diagrams/UDM.svg )
+![Use Case model](assets/diagrams/UCD.svg )
 
 ###  PUML Source
   

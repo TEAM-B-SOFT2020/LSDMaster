@@ -168,7 +168,7 @@ Return the Airport information</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;-
-getAirportInformation(IATACode iataCode)</panel_attributes>
+getAirportInformation(iata: string)</panel_attributes>
     <additional_attributes>460.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
@@ -180,7 +180,7 @@ getAirportInformation(IATACode iataCode)</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-AirportDetailDTO</panel_attributes>
+AirportDetail</panel_attributes>
     <additional_attributes>10.0;20.0;460.0;20.0</additional_attributes>
   </element>
 </diagram>

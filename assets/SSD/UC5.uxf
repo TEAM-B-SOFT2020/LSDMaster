@@ -168,7 +168,7 @@ Return booking</panel_attributes>
       <h>50</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;-
-getBooking(string bookingID)
+getBooking(id: IBookingIdentifier)
 </panel_attributes>
     <additional_attributes>460.0;20.0;10.0;20.0</additional_attributes>
   </element>
@@ -181,7 +181,7 @@ getBooking(string bookingID)
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-BookingDetailDTO</panel_attributes>
+BookingDetail</panel_attributes>
     <additional_attributes>10.0;20.0;460.0;20.0</additional_attributes>
   </element>
 </diagram>

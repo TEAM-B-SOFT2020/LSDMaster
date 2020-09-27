@@ -22,4 +22,42 @@ Add inline documentation for all methods, DTOs, and ETOs.
 - [System Operations Contract](#system-operations-contract)
 
 ## Sequence Diagram
+
+### System sequence diagram 1
+![SSD1](/assets/SSD/UC1.png)
+### System sequence diagram 2
+![SSD2](/assets/SSD/UC2.png)
+### System sequence diagram 3
+![SSD3](/assets/SSD/UC3.png)
+### System sequence diagram 4
+![SSD4](/assets/SSD/UC4.png)
+### System sequence diagram 5
+![SSD5](/assets/SSD/UC5.png)
+### System sequence diagram 6
+![SSD6](/assets/SSD/UC6.png)
+
+
 ## System Operations Contract
+
+[IContract](https://github.com/TEAM-B-SOFT2020/LSDContract)
+
+``` Javascript
+export default interface IContract {
+
+    getCarrierInformation(iata: string): ICarrierDetail | NotFoundError | InvalidInputError
+
+    getAirportInformation(iata: string): IAirportDetail | NotFoundError | InvalidInputError
+
+    getFlightsAvailable(departure: IAirportDetail, arrival: IAirportDetail, depart: Moment): IFlightSummary[] | NotFoundError | InvalidInputError
+
+    reserveFlight(id: IFlightIdentifier, amountSeats: number): IReservationSummary | NotFoundError | InvalidInputError
+
+    bookFlight(reservedIds: IReservationDetail[], creditCardNumber:number, frequentFlyerNumber: number): IBookingDetail | InconsistentLengthError | NotFoundError | InvalidInputError
+
+    getBooking(id: IBookingIdentifier): IBookingDetail | NotFoundError | InvalidInputError
+
+    cancelBooking(id: IBookingIdentifier): void | NotFoundError | InvalidInputError
+
+}  
+```
+

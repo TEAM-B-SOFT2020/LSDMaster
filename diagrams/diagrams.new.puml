@@ -1,0 +1,80 @@
+
+'logical data model
+'----------------------------
+@startuml "logical-data-model"
+skinparam Shadowing False
+skinparam RoundCorner 10
+skinparam DefaultFontColor DimGrey
+
+' ref https://www.youtube.com/watch?v=UI6lqHOVHic&ab_channel=Lucidchart
+
+skinparam Object {
+    BackgroundColor DodgerBlue
+    ArrowColor DimGrey
+    BorderColor White
+    FontColor White
+    FontStyle Bold
+    AttributeFontColor White
+    StereotypeFontColor White
+}
+
+Object flight {
+    'This is a combination of carrier code and the three digits
+    iataCombinedCode
+    departureDateTime
+    arrivalDataTime
+    numberOfSeats
+    seatPrice
+}
+
+Object carrier {
+    iataCarrierCode
+}
+
+Object airport {
+    iataAirportCode
+    name
+    timeZone
+}
+
+Object person {
+    firstName
+    lastName
+    passport
+}
+
+Object booking {
+    price
+    'if credit card is null booking is paid by Frequent Flyer Number
+    creditCardNumber
+    frequentFlyerNumber
+}
+
+Object schedule
+Object agency
+
+airport "1..*\n startDestination" o--- "*" flight
+airport "1..*\n endDestination" o--- "*" flight
+
+flight "*" -- "1" schedule
+flight "*" - "*" person: pnr
+carrier o- "1" schedule
+
+person "1.9" -- "*" booking: passenger
+person "*" -o agency: employe
+
+booking "*" -- "1.*" flight
+
+@enduml
+
+'use case model
+'----------------------------
+@startuml "use-case-model"
+skinparam Shadowing False
+skinparam RoundCorner 10
+skinparam DefaultFontColor DimGrey
+hide circle
+
+'ref https://plantuml.com/use-case-diagram
+
+@enduml

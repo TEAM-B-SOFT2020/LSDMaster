@@ -80,28 +80,59 @@ A figure of our brancing strategy can be found [here](https://github.com/TEAM-B-
 1. Download the repository.
 2. In terminal 
 
-```bash yarn install ```
+```bash
+yarn install
+```
 
 3. In terminal
 
-```bash yarn add TEAM-B-SOFT2020/LSDContract```
+```bash
+yarn add TEAM-B-SOFT2020/LSDContract
+```
+
+### Tests
+
+```bash
+yarn test
+```
 
 ### Execute the application
 
 Run application
 
-```bash yarn dev```
+If you have docker installed, you can run everything using the command
+
+```bash
+yarn monitor
+```
+The prometheus.yml file is configured to install a docker-image of the application and run grafana service.
+
+
+
+```bash
+yarn dev
+```
 
 Links
 
-```bash [http://localhost:4000] - for application ```
+```bash
+http://localhost:4000 - for application 
+```
 
-```bash http://localhost:4000/api - for API ```
+```bash
+http://localhost:4000/api - for API
+```
 
-### 
-5. Services.
+### Logging and Monotoring.
+When the application is running. We log both errors and information about data retrival and input.
+In the logger.ts file we specify two text files to store logs. The text files are saved in './logs/errors.log' and './logs/info.logs'
+The loggers are defined by levels 'level: 'error'' for erros and 'level: 'info'' for general info.
 
 
-```bash 'http://localhost:4000/metrics/ - for montoring ```
+
+
+```bash 
+http://localhost:3000 - for montoring 
+```
 
 ....

@@ -100,21 +100,15 @@ yarn test
 
 Run application
 
-If you have docker installed, you can run everything using the command
+If you have docker installed, you can run everything using the following command:
 
 ```bash
-yarn monitor
+yarn monitor (Takes a few seconds)
 ```
-The prometheus.yml file is configured to install a docker-image of the application and run grafana service.
+The prometheus.yml file is configured to install a docker image of the application and run grafana service.
 
 
-
-```bash
-yarn dev
-```
-
-Links
-
+You can now open the application on port :4000
 ```bash
 http://localhost:4000 - for application 
 ```
@@ -123,16 +117,31 @@ http://localhost:4000 - for application
 http://localhost:4000/api - for API
 ```
 
-### Logging and Monotoring.
+
+Alternatively you can run the application without monitoring:
+```bash
+yarn dev
+```
+
+
+### Logging and Monitoring.
 When the application is running. We log both errors and information about data retrival and input.
 In the logger.ts file we specify two text files to store logs. The text files are saved in './logs/errors.log' and './logs/info.logs'
 The loggers are defined by levels 'level: 'error'' for erros and 'level: 'info'' for general info.
 
 
-
+If you ran the application using the docker image, you have access to the prometheus monitor Dashboard.
 
 ```bash 
-http://localhost:3000 - for montoring 
+http://localhost:3000 - for grafana 
 ```
+You will be presented with a login screen - create a user, and login.
+Then navigate to Configuration (cogwheel) > Data Sources > Add Data Source (Big green button). 
+In 'Settings':
+Set URL to 'http://localhost:9090'
+Set Access to 'Browser'
+Next to 'Settings' click 'Dashboards' and select 'Prometheus 2.0 Stats'
+Navigate to the 'Dashboard'(four squares) in the left navigation bar > Manage > Select 'Prometheus 2.0 Stats'
+Now bask in its glory. 
 
 ....

@@ -70,6 +70,8 @@ npm run start
 
 The Service Level Agreement can be found [here](https://github.com/TEAM-B-SOFT2020/LSDBackEnd/wiki/Service-Level-Agreement)  
 A figure of our brancing strategy can be found [here](https://github.com/TEAM-B-SOFT2020/LSDBackEnd/wiki)
+....
+
 
 ## Frontend Application
 

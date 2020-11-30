@@ -146,12 +146,19 @@ If you ran the application using the docker image, you have access to the promet
 http://localhost:3000 - for grafana 
 ```
 You will be presented with a login screen - create a user, and login.
+
 Then navigate to Configuration (cogwheel) > Data Sources > Add Data Source (Big green button). 
+
 In 'Settings':
+
 Set URL to 'http://localhost:9090'
+
 Set Access to 'Browser'
+
 Next to 'Settings' click 'Dashboards' and select 'Prometheus 2.0 Stats'
+
 Navigate to the 'Dashboard'(four squares) in the left navigation bar > Manage > Select 'Prometheus 2.0 Stats'
+
 Now bask in its glory. 
 
 ....

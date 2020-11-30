@@ -78,13 +78,23 @@ A figure of our brancing strategy can be found [here](https://github.com/TEAM-B-
 ### Setup
 
 1. Download the repository.
-2. In terminal 
+2. In the root of the project, make a ```bash .env``` file.
+3. Insert into the .env file:
+
+```bash
+NODE_ENV=development
+RPC_HOST=http://localhost:3000/
+PORT=4000
+```
+4. In terminal 
+
+
 
 ```bash
 yarn install
 ```
 
-3. In terminal
+5. In terminal
 
 ```bash
 yarn add TEAM-B-SOFT2020/LSDContract

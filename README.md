@@ -73,4 +73,35 @@ A figure of our brancing strategy can be found [here](https://github.com/TEAM-B-
 
 ## Frontend Application
 
+[FrontEnd repository](https://github.com/TEAM-B-SOFT2020/LSDFrontEnd)
+
+### Setup
+
+1. Download the repository.
+2. In terminal 
+
+```bash yarn install ```
+
+3. In terminal
+
+```bash yarn add TEAM-B-SOFT2020/LSDContract```
+
+### Execute the application
+
+Run application
+
+```bash yarn dev```
+
+Links
+
+```bash [http://localhost:4000] - for application ```
+
+```bash http://localhost:4000/api - for API ```
+
+### 
+5. Services.
+
+
+```bash 'http://localhost:4000/metrics/ - for montoring ```
+
 ....
